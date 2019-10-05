@@ -1,1 +1,2 @@
-# This is a training for programming challanges
+# Programming Challanges
+These are my solutions of the Skania book problems and other sources 
