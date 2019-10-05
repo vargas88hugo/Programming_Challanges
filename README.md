@@ -1,2 +1,2 @@
 # Programming Challanges
-These are my solutions of the Skania book problems and other sources 
+These are my solutions to the problems of Skania book and other sources 
